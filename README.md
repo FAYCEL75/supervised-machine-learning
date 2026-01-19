@@ -1,3 +1,5 @@
+Link to github [project](https://github.com/FAYCEL75/supervised-machine-learning)
+
 # Prédiction du Taux de Conversion – Machine Learning Supervisé
 
 ## Abonnement à la newsletter *DataScienceWeekly*
